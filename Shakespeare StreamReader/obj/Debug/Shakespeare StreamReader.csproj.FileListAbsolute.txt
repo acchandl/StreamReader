@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Shakespeare StreamReader\Shakespeare StreamReader\bin\Debug\Shakespeare StreamReader.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Shakespeare StreamReader\Shakespeare StreamReader\bin\Debug\Shakespeare StreamReader.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Shakespeare StreamReader\Shakespeare StreamReader\bin\Debug\Shakespeare StreamReader.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Shakespeare StreamReader\Shakespeare StreamReader\obj\Debug\Shakespeare StreamReader.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Shakespeare StreamReader\Shakespeare StreamReader\obj\Debug\Shakespeare StreamReader.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Shakespeare StreamReader\Shakespeare StreamReader\obj\Debug\Shakespeare StreamReader.pdb
